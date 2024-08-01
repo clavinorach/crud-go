@@ -1,2 +1,7 @@
 *.go linguist-language=Go
-*.html linguist-language=HTML
+
+*.min.js linguist-vendored
+
+docs/* linguist-documentation
+
+generated/* linguist-generated
